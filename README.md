@@ -29,3 +29,5 @@ For activating on Mac, use
 ``pip install -r requirements.txt``
 
 
+**Your virtual environemnt is now ready. For additional information, read [this link](http://docs.python-guide.org/en/latest/dev/virtualenvs/)**
+
