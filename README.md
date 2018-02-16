@@ -16,8 +16,11 @@ General instructions on set up of python for projects
 ``virtualenv -p python3.6 name_of_project``   
 ('name_of_project' is the name of your virtual environment. You can name this anything you like.)
 2. Activate the virtualenv  
-Be in the same directory where you created the virtualenv. Then do the following:  
-``name_of_project\Scripts\activate``
+Be in the same directory where you created the virtualenv.  
+Then do the following (on Windows):  
+``name_of_project\Scripts\activate``  
+For activating on Mac, use  
+  ``$ source name_of_project/bin/activate``
 
 ## Installing project requirements in the virtualenv
 
